@@ -1,13 +1,18 @@
-# 🌟 Welcome to my GitHub
+# 🌟 Welcome to My GitHub
 
-# 🚀 關於我
-- 👨‍💻 一位資料分析與工程愛好者
-- 💻 熟悉的技術：  
-  - 資料視覺化工具：Tableau
-  - 數據處理與機器學習：Python、Pandas、NumPy、Scikit-learn  
-  - 資料庫設計與管理：MySQL、PostgreSQL  
-- 🏆 喜歡學習新技術，探索資料潛在價值  
-🌟 希望透過技術與數據改變世界！
+## 🚀 關於我
+👨‍💻 我是一名熱愛數據分析與工程的愛好者，專注於挖掘數據的潛在價值，並致力於通過技術解決實際問題。
 
+### 💻 技術專長
+- **📊 資料視覺化工具**：Tableau  
+- **🔍 數據處理與機器學習**：Python、Pandas、NumPy、Scikit-learn  
+- **🗃️ 資料庫設計與管理**：MySQL、PostgreSQL  
+- **🔧 版本控制**：Git、GitHub  
+- **🐳 容器化技術**：Docker、Docker Compose  
 
+### 🏆 個人特色
+- 🔄 熱衷於學習新技術，時刻保持對前沿技術的好奇心  
+- 📈 擅長將複雜數據轉化為實用洞察，幫助決策更高效  
+
+🌟 **希望透過技術與數據的力量改變世界，創造更大的價值！**
 
