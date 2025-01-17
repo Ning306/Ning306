@@ -4,9 +4,9 @@
 👨‍💻 我是一名熱愛數據分析與工程的愛好者，專注於挖掘數據的潛在價值，並致力於通過技術解決實際問題。
 
 ### 💻 技術專長
-- **📊 資料視覺化工具**：Tableau  
 - **🔍 數據處理與機器學習**：Python、Pandas、NumPy、Scikit-learn  
-- **🗃️ 資料庫設計與管理**：MySQL、PostgreSQL  
+- **🗃️ 資料庫設計與管理**：MySQL、PostgreSQL
+- **📊 資料視覺化工具**：Tableau  
 - **🔧 版本控制**：Git、GitHub  
 - **🐳 容器化技術**：Docker、Docker Compose  
 
